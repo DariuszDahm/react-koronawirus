@@ -1,7 +1,4 @@
-# COVID-19 Tracker
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
-
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](https://koronawirus2.netlify.com/)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
